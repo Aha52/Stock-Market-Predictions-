@@ -1,4 +1,4 @@
-# Stock-Market-Predictions-
+# Stock-Market-Predictions:
 Stock market predictions for Google,IBM and Apple done using Python and Jupyter notebooks 
 
 
@@ -9,4 +9,4 @@ Stock market predictions for Google,IBM and Apple done using Python and Jupyter 
 ![](Google_Stock_Predictions.png)
 
 # IBM Stock Prediction:
-![](IBM_Stock predictions.png)
+![](IBM_Stock_Predictions.png)
